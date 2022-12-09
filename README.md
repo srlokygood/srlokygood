@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jair but you can tellme Loky
+- 👋 Hi, I’m Jair Alejandro Forero
 I'm development interesting in the new technologies
 I love learn about everything
 my best interesting be the programation in all forms
