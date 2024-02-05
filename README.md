@@ -1,12 +1,13 @@
 - 👋 Hi, I’m Jair Alejandro Forero
-I'm development interesting in the new technologies
+I'm development interesting in the new technologies since hardware until software and AI
 I love learn about everything
-my best interesting be the programation in all forms
--Web sites /full Stack
--microcontrollers
--Video Games
-too i know much about hardware like to assemble and dessemble Computers, notebooks, 3d printers 
-and to create my own iventions with arduino or raspberry.
-i have too a fasination for the print 3D, i learn how to model in 3d and configuration the printer, and repair this.
+my skill in programming are
+-Web sites fronted: html,javascript,css,angular,astro,ionic
+-backend: golang, php, java, node, rust
+-microcontroller: arduino ,raspberry , circuit design
+-Video Games: unity ,godot, unreal engine
+i have my own project of all kind like app, websites and hardware projects
+domain in computers, 3D printers, weld of circuits
+ 
 
 
