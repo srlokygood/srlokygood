@@ -13,5 +13,6 @@ Data Analysis & AI: Python (Pandas, NumPy, Matplotlib/Seaborn), SQL, Data Visual
 Full Stack Web: Angular, Astro, Node.js, Go, Java, PHP, Rust, HTML/CSS/JS.
 Hardware & IoT: Arduino, Raspberry Pi, 3D Design/Printing, Circuit Soldering.
 Game Development: Unity, Godot, Unreal Engine.
+
 💡 Constantly building my own software, data, and hardware projects.
 Siempre construyendo proyectos propios: apps, sitios web, pipelines de datos y prototipos de hardware.
